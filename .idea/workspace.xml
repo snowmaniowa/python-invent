@@ -62,6 +62,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/example/chapter1" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\pybox\python-invent\example\chapter1" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.program1_greeting">
     <configuration name="Hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-invent" />
