@@ -26,8 +26,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f5b55c1-30a3-46d3-97df-7083ebf305fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/example/chapter1/Hello.py" afterDir="false" />
+    <list default="true" id="0f5b55c1-30a3-46d3-97df-7083ebf305fd" name="Default Changelist" comment="Hello World example">
+      <change afterPath="$PROJECT_DIR$/example/chapter1/program1_greeting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/chapter1/Hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/example/chapter1/Hello.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +59,10 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example/chapter1" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
-  <component name="RunManager" selected="Python.Hello">
+  <component name="RunManager" selected="Python.program1_greeting">
     <configuration name="Hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-invent" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,12 +105,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="program1_greeting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-invent" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/example/chapter1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example/chapter1/program1_greeting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Python3.7 Config" />
       <item itemvalue="Python.Hello" />
+      <item itemvalue="Python.program1_greeting" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.program1_greeting" />
         <item itemvalue="Python.Hello" />
       </list>
     </recent_temporary>
@@ -123,6 +149,14 @@
       <option name="presentableId" value="Default" />
       <updated>1592070884114</updated>
     </task>
+    <task id="LOCAL-00001" summary="Hello World example">
+      <created>1592072587082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592072587082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,19 +185,53 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Hello World example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World example" />
   </component>
   <component name="WindowStateProjectService">
     <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592072501202">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1592072501202" />
+    <state width="1259" height="204" key="GridCell.Tab.0.bottom" timestamp="1592072773201">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592072773201" />
+    <state width="1259" height="204" key="GridCell.Tab.0.center" timestamp="1592072773201">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592072773201" />
+    <state width="1259" height="204" key="GridCell.Tab.0.left" timestamp="1592072773200">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592072773200" />
+    <state width="1259" height="204" key="GridCell.Tab.0.right" timestamp="1592072773201">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592072773201" />
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1592072773201">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592072773201" />
+    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1592072773201">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1592072773201" />
+    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1592072773201">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1592072773201" />
+    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1592072773201">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1592072773201" />
     <state x="151" y="0" key="SettingsEditor" timestamp="1592071859972">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="151" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1592071859972" />
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1592072056940">
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1592072591655">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1592072056940" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1592072591655" />
   </component>
 </project>
